@@ -1,0 +1,20 @@
+{
+    "title": "Torlavo",
+    "name": "torlavo-theme",
+    "description": "stavezie's theme",
+    "version": "1.0.0",
+    "author": "Stanyslaw 'stavezie' Parkhomenko",
+    "homepage": "",
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "license": "",
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    }
+}
